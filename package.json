@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is back of carwash center",
+  "keywords": [
+    "Car",
+    "wash",
+    "center"
+  ],
+  "homepage": "https://github.com/nexqbytesolution/Car-wash-backend#readme",
+  "bugs": {
+    "url": "https://github.com/nexqbytesolution/Car-wash-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexqbytesolution/Car-wash-backend.git"
+  },
+  "license": "ISC",
+  "author": "nexqbyte",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  }
+}
